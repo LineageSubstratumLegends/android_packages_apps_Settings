@@ -65,7 +65,7 @@
 
         <!-- For slice view in settings -->
         <item name="sliceViewStyle">@style/Widget.SliceView.Settings</item>
-
+        <item name="android:colorControlNormal">@color/color_control_normal</item>
         <item name="notification_importance_button_background_color_unselected">@android:color/transparent</item>
         <item name="notification_importance_button_border_color_unselected">?androidprv:attr/materialColorOutlineVariant</item>
         <item name="notification_importance_button_foreground_color_unselected">?androidprv:attr/materialColorOnSurfaceVariant</item>
